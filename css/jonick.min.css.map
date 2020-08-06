@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC,OAAO,CAAC,QAAQ,AAAA,CACd,UAAU,CAAE,UAAU,CACzB,AACD,AAAA,IAAI,AAAA,CACA,MAAM,CAAE,CAAC,CACZ",
+    "sources": [
+        "../scss/jonick.scss"
+    ],
+    "names": [],
+    "file": "jonick.min.css"
+}
